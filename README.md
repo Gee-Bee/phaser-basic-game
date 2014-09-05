@@ -1,6 +1,8 @@
 phaser-basic-game
 =================
 
+Simple phaser game written in less than 100 LOC.
+
 ## Screenshot
 
 ![](assets/screen.gif)

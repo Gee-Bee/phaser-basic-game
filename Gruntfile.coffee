@@ -21,4 +21,4 @@ module.exports = (grunt) ->
     connect:
       uses_defaults: {}
 
-  grunt.registerTask 'default', ['connect', 'watch']
+  grunt.registerTask 'default', ['coffee', 'connect', 'watch']
